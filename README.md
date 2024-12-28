@@ -15,7 +15,7 @@ The grid map is represented as a 2D array with the following elements:
 
 Here is a sample of a grid configuration in the game:
 
-![Sample Grid](images/grid_sample.png)
+![Sample Grid](grid_sample.png)
 
 ## Test Cases
 
@@ -25,13 +25,13 @@ The following test cases can be used to test the effectiveness and reliability o
 
 In this test case, the agent successfully reaches the goal without being captured by the enemy.
 
-![Agent Reaches Goal](images/agent_goal_reach.png)
+![Agent Reaches Goal](agent_goal_reach.png)
 
 ### Test Case 2: Enemy Captures the Agent
 
 In this test case, the enemy captures the agent before it reaches the goal.
 
-![Enemy Captures Agent](images/enemy_capture.png)
+![Enemy Captures Agent](enemy_capture.png)
 
 ## Game Outcome Variability
 
